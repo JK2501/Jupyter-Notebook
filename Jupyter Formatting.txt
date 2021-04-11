@@ -1,0 +1,33 @@
+Works only in Markdown (M):
+https://www.markdownguide.org/basic-syntax
+
+# H1        (Header 1) 
+## H2 ...   (Header 2...)	
+
+**Word**  (Bold) 
+*Word*    (Italic)
+
+
+1. First Occasion     (Numbered List that is already indented) 
+	A. One of that Sort 
+	B. Second One of that Sort
+2. Second Occasion 
+3. Third Ocassion 
+
+
+- First Occasion     (Bullet List that is already indented) 
+	- One of that Sort 
+	- Second One of that Sort
+- Second Occasion 
+- Third Ocassion 
+
+
+```python             (The python syntax is colored accordingly)
+	x = 100
+	print(x) 
+```
+
+
+I like [Python](https://python.org)! --> I like Python   (Use Links)
+
+![Python Logo](https://imageURL)     			 (Get Image Displayed in Notebook)
